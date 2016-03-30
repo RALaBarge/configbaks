@@ -1,0 +1,167 @@
+xit
+exit
+man tmux
+man tmux
+
+screen -list
+screen -r 2615
+ls
+top
+iotop
+iftop
+ps -aux|grep python
+kill -kill 2592
+ps -aux|grep python
+clear
+sudo apt-get install pip
+pip
+sudo apt-get install python-pip
+sudo apt-get update
+pip install virtualenv
+sudo apt-get install python-pip
+sudo pip install virtualenv
+ls
+man virtualenv
+ls
+cd $HOME
+ls
+mkdir virtualenv
+cd virtualenv/
+virtualenv nginx
+cat /usr/lib/python2.7/site-packages
+cat /usr/lib/python2.7/site
+cat /usr/lib/python2.7/site.pyc
+clear
+ls
+cd nginx/
+ls
+cat pip-selfcheck.json 
+man ls
+clear
+ls -laR
+ls -laR|less
+ls
+source bin/activate
+sudo apt-get install nginx
+ls
+cd local
+ls
+cd ..
+cd lib
+ls
+cd ..
+cd bin
+ls
+cd ..
+nginx
+sudo nginx
+slocate
+find / -f nginx -list|less
+clear
+disengage
+cd /etc/nginx/
+ls
+vi nginx.conf 
+ls
+ls -la
+cat uwsgi_params 
+man find
+find / -type f -name nginx -print
+find / -type f -name nginx -print|grep nginx
+find / -type d -name nginx -print
+tmux
+exit
+man tmux
+exit
+cd ~
+ls
+ls -la
+cat .profile
+ls
+vi .bashrc
+source .bashrc
+find tmux
+vi .bashrc
+source .bashrc
+vi .bash
+vi .bashrc
+source .bashrc
+find tmux
+ffind tmux
+vi .bashrc
+ffile tmux
+vi .bashrc
+source .bashrc
+vi .bashrc
+exec bash
+vi .bashrc
+exec bash
+cd ~
+vi .bashrc
+source .bashrc
+vi .bashrc
+source .bashrc
+ffile nginx
+source .bashrc
+vi .bashrc
+source .bashrc
+ffile nginx
+ffile nginx|grep nginx
+cat /tmp
+ls /tmp
+cat search
+cat /tmp/search
+man find
+vi .bashrc
+source .bashrc
+ffile nginx
+ffile nginx >> search
+exit
+vi .bashrc
+source .bashrc
+ffile nginx
+ffile nginx|grep xginx
+ffile nginx|grep nginx
+ffile nginx|grep -v permission
+exit
+ls
+top
+sudo apt list --installed|grep python
+clear
+vi
+ls
+cd ..
+ls
+cd /
+ls
+cd boot
+su
+cd $HOME
+ls
+ls -la
+tmux
+git
+sudo apt-get install git
+ls
+pwd
+mkdir git
+cd git
+git clone https://github.com/rspivak/lsbaws
+ls
+cd lsbaws/
+ls
+cd part
+cd part1
+ls
+python webserver1.py
+python webserver1.py &
+ifconfig
+telnet localhost 8888
+clear
+ls
+cat webserver1.py 
+screen
+screen -list
+tmux ls
+tmux
+exit
